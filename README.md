@@ -11,19 +11,9 @@ My name is Panos. I am an Applied Mathematics and Computer Science college Senio
 
 ---
 ## GitHub Statistics
-[![Nishant1500's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishant1500&show_icons=true&theme=radical)](https://github.com/Nishant1500?tab=overview)
+[![Nishant1500's GitHub Stats](https://github-readme-stats.vercel.app/api?username=psyrgkan&show_icons=true&theme=radical)](https://github.com/psyrgkan?tab=overview)
 <br>
-<a href="https://github.com/Nishant1500?tab=overview">
-<img align="center" alt="Nish's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant1500&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant1500&theme=radical" alt="More Nish Stats" /></p>
+<a href="https://github.com/psyrgkan?tab=overview">
+<img align="center" alt="Panos's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psyrgkan&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psyrgkan&theme=radical" alt="More Panos Stats" /></p>
 </a>
-
-## 🎵 Spotify status
-I listen to a lot of songs on Spotify, so here my Spotify now playing status. You can see my Spotify now playing on Discord too!
-**(If Something is not playing, it just shows static info of the previous played song)**
-
-<p align="center">
-<a href="https://readme-new.vercel.app/api/song/?opened">
-  <img src="https://readme-new.vercel.app/api/song" width="341" height="571" alt="Now Playing">
-</a>
-  </p>
