@@ -1,8 +1,8 @@
 # OP! Hey there!
 
 My name is Panos. I am an Applied Mathematics and Computer Science college Senior, aspiring Data Scientist. Here is a short intro:
-- 🙃 Pronouns: He/Him
-- 👀 I’m interested in AI, ML and recently Quantum Computing. I know Python, SQL, R and Java. Specifically familiar with pandas, numpy, sklearn. Have built ML models from scratch and worked Tensorflow.
+
+👀 I’m interested in AI, ML and recently Quantum Computing. I know Python, SQL, R and Java. Specifically familiar with pandas, numpy, sklearn. Have built ML models from scratch and worked Tensorflow.
 #### 📫 How to reach me:
 - Email: [`Click To Email Me!`](mailto:psyrganis@gmail.com) or copy **`psyrganis@gmail.com`**
 - Or Contact me in this discord server: [TMs Server!](https://discord.gg/5Sp4nuBz)
