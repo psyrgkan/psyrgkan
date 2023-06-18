@@ -11,7 +11,7 @@ My name is Panos. I am a recently graduated Applied Mathematics and Computer Sci
 
 ---
 ## GitHub Statistics
-[!(https://github-readme-stats.vercel.app/api?username=psyrgkan&show_icons=true&theme=radical)](https://github.com/psyrgkan?tab=overview)
+[![](https://github-readme-stats.vercel.app/api?username=psyrgkan&show_icons=true&theme=radical)](https://github.com/psyrgkan?tab=overview)
 <br>
 <a href="https://github.com/psyrgkan?tab=overview">
 <img align="center" alt="Panos's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psyrgkan&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
