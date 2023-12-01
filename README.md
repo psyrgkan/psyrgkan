@@ -5,8 +5,7 @@ My name is Panos. I am a recently graduated Applied Mathematics and Computer Sci
 👀 I’m interested in AI, ML and recently particularly Predictive Coding and Active Inference. I know Python, SQL, R and Java. Specifically familiar with pytorch, tensorflow, pandas, numpy, sklearn.
 #### 📫 How to reach me:
 - Email: [`Click To Email Me!`](mailto:psyrganis@gmail.com) or copy **`psyrganis@gmail.com`**
-- Or Contact me in this discord server: [TMs Server!](https://discord.gg/5Sp4nuBz)
-- Shoot me a DM on LinkedIn: [My LinkyDinky](https://www.linkedin.com/in/panossyr)
+- Or shoot me a DM on LinkedIn: [My LinkyDinky](https://www.linkedin.com/in/panossyr)
 
 
 ---
